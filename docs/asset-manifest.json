@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.7e3093ae.css",
-    "main.js": "/static/js/main.51a4cb37.js",
-    "static/js/787.599e020a.chunk.js": "/static/js/787.599e020a.chunk.js",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/index.html",
-    "main.7e3093ae.css.map": "/static/css/main.7e3093ae.css.map",
-    "main.51a4cb37.js.map": "/static/js/main.51a4cb37.js.map",
-    "787.599e020a.chunk.js.map": "/static/js/787.599e020a.chunk.js.map"
+    "main.css": "/bail-bot/static/css/main.7e3093ae.css",
+    "main.js": "/bail-bot/static/js/main.d37e9eb0.js",
+    "static/js/787.599e020a.chunk.js": "/bail-bot/static/js/787.599e020a.chunk.js",
+    "static/media/logo.svg": "/bail-bot/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/bail-bot/index.html",
+    "main.7e3093ae.css.map": "/bail-bot/static/css/main.7e3093ae.css.map",
+    "main.d37e9eb0.js.map": "/bail-bot/static/js/main.d37e9eb0.js.map",
+    "787.599e020a.chunk.js.map": "/bail-bot/static/js/787.599e020a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7e3093ae.css",
-    "static/js/main.51a4cb37.js"
+    "static/js/main.d37e9eb0.js"
   ]
 }
